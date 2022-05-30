@@ -1,44 +1,22 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-# <写真で管理しよう>
+# プロテインマニア
 
 ## サイト概要
 ### サイトテーマ
-<買ったものを写真で管理して、持っているものを把握しやすくする>
-
+プロテインを飲みやすさ、タンパク質の含有量、カロリー等で評価したり、
+自分が欲しい条件のプロテインを検索できるレビューサイト
 ### テーマを選んだ理由
-<出先で細かいものを買うときに、すでに持っているものかわかなくなることがあるので、
-写真で確認できたら便利だと思いこのテーマにしました。>
-
+ダイエットをしていてタンパク質の重要性は言わずもがなですが、手軽にタンパク質の
+とれるプロテインは一袋の量が多く値段もそこそこするために、買い物を失敗した時の
+ダメージが大きいのです。なので自分が欲しい条件、例えば100カロリー以内でタンパク質
+15ｇ脂質1ｇ以下で、なおかつだまになりにくい、甘ったるくない、タンパク質特有の味
+を感じない等のユーザー側のレビューで自分の飲みやすいプロテインを探せたら便利だな
+と思いこのテーマにしました。
 ### ターゲットユーザ
-<細かいものを買う機会が多い人（例えばネイル用品、本、グッツなど）>
-
+・筋肉をつけたい人
+・ダイエットをしている人
+・肌のためにタンパク質を取りたい人
 ### 主な利用シーン
-<出先で買い物をするときにすでに持っているものか確認をしたり、すでに持っているもの
-でも複数個ほしい場合、登録するときに備考欄を作ることで金額を比較したりできる>
+プロテイン購入時の比較目的、または購入したプロテインの評価(ユーザー側の備忘録的使用)
 
 ## 実装機能リスト
 <https://docs.google.com/spreadsheets/d/1YNlVJDnOfPktBXdTCeAn399_YsrmSqCjWy5UcIveZmc/edit?usp=sharing>
@@ -51,5 +29,4 @@ Things you may want to cover:
 - IDE：Cloud9
 
 ## 使用素材
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
+各企業の商品の写真
